@@ -1,1 +1,1 @@
-# python_projects
+# Contact management with Python and SQLite
